@@ -1,0 +1,59 @@
+[18-Apr-2020 03:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::the_title() in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code:6
+Stack trace:
+#0 /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65): eval()
+#1 /home/ktech794/public_html/wp-includes/shortcodes.php(343): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/ktech794/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/ktech794/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[xyz-ips snippe...')
+#5 /home/ktech794/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(531): Elementor\Widget_Shortcode->render()
+#6 /home/ktech794/public_html/wp-content/plugins/elementor/core/base/document.php(218): Elementor\Widget_Base->render_content()
+#7 /home/ktech794/publi in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 6
+[18-Apr-2020 03:41:07 UTC] PHP Parse error:  syntax error, unexpected 'title' (T_STRING), expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 6
+[18-Apr-2020 03:41:49 UTC] PHP Parse error:  syntax error, unexpected 'title' (T_STRING), expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 6
+[18-Apr-2020 03:42:05 UTC] PHP Parse error:  syntax error, unexpected 'title' (T_STRING), expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 6
+[18-Apr-2020 03:42:34 UTC] PHP Parse error:  syntax error, unexpected 'title' (T_STRING), expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 5
+[18-Apr-2020 03:55:39 UTC] PHP Warning:  Use of undefined constant Computers - assumed 'Computers' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 3
+[18-Apr-2020 04:19:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 04:20:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 04:20:44 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 04:30:48 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 04:31:07 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 04:55:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:03:20 UTC] PHP Parse error:  syntax error, unexpected '')?>)</li> ' (T_ENCAPSED_AND_WHITESPACE) in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:03:35 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:04:41 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:04:44 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:05:05 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:05:07 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:05:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:05:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:05:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:06:14 UTC] PHP Parse error:  syntax error, unexpected 'php' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:06:31 UTC] PHP Parse error:  syntax error, unexpected 'get_the_category_list' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:06:52 UTC] PHP Parse error:  syntax error, unexpected 'get_the_category_list' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 14:48:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bam_Theme' does not have a method 'register_s' in /home/ktech794/public_html/wp-includes/class-wp-hook.php on line 287
+[18-Apr-2020 14:48:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-includes/class-wp-hook.php:287) in /home/ktech794/public_html/wp-includes/functions.php on line 6221
+[18-Apr-2020 14:50:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bam_Theme' does not have a method 'register_s' in /home/ktech794/public_html/wp-includes/class-wp-hook.php on line 287
+[18-Apr-2020 14:50:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-includes/class-wp-hook.php:287) in /home/ktech794/public_html/wp-includes/functions.php on line 6221
+[18-Apr-2020 14:50:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bam_Theme' does not have a method 'register_s' in /home/ktech794/public_html/wp-includes/class-wp-hook.php on line 287
+[18-Apr-2020 14:50:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-includes/class-wp-hook.php:287) in /home/ktech794/public_html/wp-includes/functions.php on line 6221
+[18-Apr-2020 21:38:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-content/themes/bam/functions.php:333) in /home/ktech794/public_html/wp-includes/http.php on line 494
+[18-Apr-2020 21:40:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-content/themes/bam/functions.php:333) in /home/ktech794/public_html/wp-includes/http.php on line 494
+[18-Apr-2020 21:44:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-content/themes/bam/functions.php:332) in /home/ktech794/public_html/wp-includes/http.php on line 494
+[18-Apr-2020 21:46:06 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ')' in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 117
+[18-Apr-2020 21:48:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-content/themes/bam/functions.php:332) in /home/ktech794/public_html/wp-includes/http.php on line 494
+[18-Apr-2020 21:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-content/themes/bam/functions.php:332) in /home/ktech794/public_html/wp-includes/http.php on line 494
+[18-Apr-2020 21:51:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-content/themes/bam/functions.php:331) in /home/ktech794/public_html/wp-includes/http.php on line 494
+[21-Apr-2020 17:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code:13
+Stack trace:
+#0 /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65): eval()
+#1 /home/ktech794/public_html/wp-includes/shortcodes.php(343): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/ktech794/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/ktech794/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[xyz-ips snippe...')
+#5 /home/ktech794/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(531): Elementor\Widget_Shortcode->render()
+#6 /home/ktech794/public_html/wp-content/plugins/elementor/core/base/document.php(218): Elementor\Widget_Base->render_content()
+#7 /home/ktech794/public_ in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 13
+[21-Apr-2020 18:05:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 16
+[21-Apr-2020 18:05:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 16
+[21-Apr-2020 18:06:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 17

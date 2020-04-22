@@ -1,0 +1,294 @@
+[16-Apr-2020 22:48:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ktech794/public_html/wp-includes/post-template.php on line 317
+[16-Apr-2020 22:57:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ktech794/public_html/wp-content/themes/bam/front-page.php on line 19
+[16-Apr-2020 22:57:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ktech794/public_html/wp-content/themes/bam/front-page.php on line 19
+[16-Apr-2020 22:57:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ktech794/public_html/wp-content/themes/bam/front-page.php on line 19
+[16-Apr-2020 22:58:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ktech794/public_html/wp-content/themes/bam/front-page.php on line 18
+[16-Apr-2020 22:58:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ktech794/public_html/wp-content/themes/bam/front-page.php on line 18
+[16-Apr-2020 22:58:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ktech794/public_html/wp-content/themes/bam/front-page.php on line 18
+[16-Apr-2020 23:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php:3
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php on line 3
+[17-Apr-2020 00:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-content/themes/bam/functions.php:330) in /home/ktech794/public_html/wp-includes/pluggable.php on line 1281
+[17-Apr-2020 00:36:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php:6
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php on line 6
+[17-Apr-2020 00:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php:6
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php on line 6
+[17-Apr-2020 00:40:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php:6
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-brand.php on line 6
+[17-Apr-2020 00:54:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 318
+[17-Apr-2020 00:54:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 318
+[17-Apr-2020 01:08:41 UTC] PHP Parse error:  syntax error, unexpected 'photo' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 317
+[17-Apr-2020 01:08:42 UTC] PHP Parse error:  syntax error, unexpected 'photo' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 317
+[17-Apr-2020 02:21:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 28
+[17-Apr-2020 02:21:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 28
+[17-Apr-2020 21:02:40 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 71
+[17-Apr-2020 21:13:32 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /home/ktech794/public_html/wp-includes/post-template.php on line 49
+[17-Apr-2020 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on array in /home/ktech794/public_html/wp-content/themes/bam/single.php:30
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 30
+[17-Apr-2020 21:48:54 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-includes/media.php on line 822
+[17-Apr-2020 21:48:54 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /home/ktech794/public_html/wp-includes/post-template.php on line 49
+[17-Apr-2020 21:51:13 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-includes/media.php on line 822
+[17-Apr-2020 21:51:13 UTC] PHP Recoverable fatal error:  Object of class WP_Tax_Query could not be converted to string in /home/ktech794/public_html/wp-includes/post-template.php on line 49
+[17-Apr-2020 21:51:52 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-includes/media.php on line 822
+[17-Apr-2020 21:51:52 UTC] PHP Recoverable fatal error:  Object of class WP_Tax_Query could not be converted to string in /home/ktech794/public_html/wp-includes/post-template.php on line 49
+[17-Apr-2020 21:56:58 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-includes/media.php on line 822
+[17-Apr-2020 22:08:40 UTC] PHP Recoverable fatal error:  Object of class WP_Query could not be converted to string in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 44
+[17-Apr-2020 22:10:56 UTC] PHP Recoverable fatal error:  Object of class WP_Query could not be converted to string in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 44
+[17-Apr-2020 22:12:04 UTC] PHP Warning:  Use of undefined constant relatedbrand - assumed 'relatedbrand' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 44
+[17-Apr-2020 22:19:38 UTC] PHP Recoverable fatal error:  Object of class WP_Query could not be converted to string in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 44
+[17-Apr-2020 22:19:54 UTC] PHP Recoverable fatal error:  Object of class WP_Query could not be converted to string in /home/ktech794/public_html/wp-content/themes/bam/single.php on line 44
+[18-Apr-2020 04:20:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 04:31:16 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:03:43 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 12
+[18-Apr-2020 05:58:24 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 05:58:27 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 05:59:33 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 05:59:40 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 05:59:47 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 05:59:56 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:03:04 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:04:44 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:04:47 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:04:54 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:05:19 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:05:39 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:05:44 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:05:50 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:07:51 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:08:20 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:10:55 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:12:06 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:13:11 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 06:13:27 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 37
+[18-Apr-2020 14:48:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bam_Theme' does not have a method 'register_s' in /home/ktech794/public_html/wp-includes/class-wp-hook.php on line 287
+[18-Apr-2020 14:48:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ktech794/public_html/wp-includes/class-wp-hook.php:287) in /home/ktech794/public_html/wp-includes/pluggable.php on line 1281
+[18-Apr-2020 14:50:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bam_Theme' does not have a method 'register_s' in /home/ktech794/public_html/wp-includes/class-wp-hook.php on line 287
+[18-Apr-2020 16:06:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 47
+[18-Apr-2020 16:12:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sit_url() in /home/ktech794/public_html/wp-content/themes/bam/header.php:45
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template.php(723): require_once()
+#1 /home/ktech794/public_html/wp-includes/template.php(672): load_template('/home/ktech794/...', true)
+#2 /home/ktech794/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/ktech794/public_html/wp-content/themes/bam/single-brand.php(2): get_header()
+#4 /home/ktech794/public_html/wp-includes/template-loader.php(106): include('/home/ktech794/...')
+#5 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#6 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#7 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 45
+[18-Apr-2020 16:13:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 51
+[18-Apr-2020 16:13:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 51
+[18-Apr-2020 16:27:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 46
+[18-Apr-2020 16:28:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/header.php on line 46
+[18-Apr-2020 18:40:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[18-Apr-2020 20:49:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[18-Apr-2020 20:50:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_field(), 0 passed in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 9 and at least 1 expected in /home/ktech794/public_html/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:20
+Stack trace:
+#0 /home/ktech794/public_html/wp-content/themes/bam/single-convention.php(9): get_field()
+#1 /home/ktech794/public_html/wp-includes/template-loader.php(106): include('/home/ktech794/...')
+#2 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#3 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#4 {main}
+  thrown in /home/ktech794/public_html/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 20
+[18-Apr-2020 21:37:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 364
+[18-Apr-2020 21:37:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 364
+[18-Apr-2020 21:46:16 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ')' in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 117
+[18-Apr-2020 21:49:30 UTC] PHP Parse error:  syntax error, unexpected 'register_nav_menus' (T_STRING) in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 120
+[18-Apr-2020 21:53:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageB() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:6
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 6
+[19-Apr-2020 01:42:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 16
+[19-Apr-2020 01:48:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[19-Apr-2020 01:49:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[19-Apr-2020 01:50:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[19-Apr-2020 01:51:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[19-Apr-2020 01:52:08 UTC] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[19-Apr-2020 01:52:42 UTC] PHP Parse error:  syntax error, unexpected 'the_content' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 13
+[19-Apr-2020 01:55:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[19-Apr-2020 02:35:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 359
+[19-Apr-2020 02:35:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 359
+[19-Apr-2020 02:36:16 UTC] PHP Parse error:  syntax error, unexpected '',get_stylesheet_uri());' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 368
+[19-Apr-2020 02:36:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktech794/public_html/wp-content/themes/bam/functions.php on line 361
+[19-Apr-2020 15:04:34 UTC] PHP Parse error:  syntax error, unexpected '' '' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 21
+[19-Apr-2020 15:05:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 33
+[19-Apr-2020 15:35:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 35
+[19-Apr-2020 15:36:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 35
+[19-Apr-2020 15:39:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 35
+[19-Apr-2020 15:39:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 35
+[19-Apr-2020 15:39:49 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 35
+[19-Apr-2020 15:40:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 41
+[19-Apr-2020 15:41:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 40
+[19-Apr-2020 15:41:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 40
+[19-Apr-2020 15:43:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 38
+[19-Apr-2020 15:54:10 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 31
+[19-Apr-2020 18:06:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 31
+[19-Apr-2020 18:06:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 37
+[19-Apr-2020 18:06:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 37
+[19-Apr-2020 18:07:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 37
+[19-Apr-2020 18:07:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 37
+[19-Apr-2020 18:07:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 37
+[19-Apr-2020 18:08:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 37
+[19-Apr-2020 18:17:05 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-content/plugins/advanced-custom-fields/includes/class-acf-data.php on line 125
+[19-Apr-2020 18:17:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 29
+[19-Apr-2020 18:19:55 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-content/plugins/advanced-custom-fields/includes/class-acf-data.php on line 125
+[19-Apr-2020 18:19:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 29
+[19-Apr-2020 18:20:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 37
+[19-Apr-2020 18:21:05 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-content/plugins/advanced-custom-fields/includes/class-acf-data.php on line 125
+[19-Apr-2020 18:21:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 29
+[19-Apr-2020 18:22:46 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-content/plugins/advanced-custom-fields/includes/class-acf-data.php on line 125
+[19-Apr-2020 18:22:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 29
+[19-Apr-2020 18:22:49 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/ktech794/public_html/wp-content/plugins/advanced-custom-fields/includes/class-acf-data.php on line 125
+[19-Apr-2020 18:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 29
+[19-Apr-2020 18:24:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[19-Apr-2020 18:24:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[19-Apr-2020 18:24:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[19-Apr-2020 18:26:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 21
+[19-Apr-2020 18:27:40 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[19-Apr-2020 18:28:03 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[19-Apr-2020 18:28:05 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[19-Apr-2020 18:28:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 24
+[19-Apr-2020 18:29:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 24
+[19-Apr-2020 18:30:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[19-Apr-2020 18:31:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 23
+[19-Apr-2020 18:32:35 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[19-Apr-2020 18:39:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 23
+[19-Apr-2020 18:42:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 24
+[19-Apr-2020 18:43:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[20-Apr-2020 00:20:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[20-Apr-2020 00:30:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 13
+[20-Apr-2020 00:30:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[20-Apr-2020 00:30:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 45
+[20-Apr-2020 00:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:22
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 22
+[20-Apr-2020 00:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:17
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[20-Apr-2020 00:37:02 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:17
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[20-Apr-2020 00:37:48 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:17
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[20-Apr-2020 00:39:39 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:17
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[20-Apr-2020 00:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:17
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[20-Apr-2020 00:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:17
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[20-Apr-2020 00:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function modify() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:16
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 16
+[20-Apr-2020 00:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function modify() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:16
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 16
+[20-Apr-2020 00:44:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function modify() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:16
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 16
+[20-Apr-2020 00:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:18
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 18
+[20-Apr-2020 00:47:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:18
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 18
+[20-Apr-2020 00:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:18
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 18
+[20-Apr-2020 00:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:17
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 17
+[20-Apr-2020 01:01:14 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php:19
+Stack trace:
+#0 /home/ktech794/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/ktech794/public_html/wp-blog-header.php(19): require_once('/home/ktech794/...')
+#2 /home/ktech794/public_html/index.php(17): require('/home/ktech794/...')
+#3 {main}
+  thrown in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 19
+[20-Apr-2020 01:10:49 UTC] PHP Parse error:  syntax error, unexpected 'the_field' (T_STRING), expecting ',' or ';' in /home/ktech794/public_html/wp-content/themes/bam/single-convention.php on line 12
+[21-Apr-2020 18:06:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ktech794/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 17
